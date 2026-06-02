@@ -88,8 +88,8 @@ export const experiences = [
     date: "2025", 
     points: [
         "Won 3rd place in a prestigious Web Design Competition held by HIMASI.",
-        "Designed a comprehensive website prototype using Figma, focusing on user-centric design and modern aesthetics.",
-        "Created interactive wireframes mockups to demonstrate seamless user flows.",
+        "Designed a high-fidelity school homepage prototype using Figma",
+        "Created interactive wireframes focusing on modern UI/UX and seamless user flows.",
             ],
 },
 ];
@@ -117,7 +117,7 @@ export const projects = [
         iconUrl: figma, 
         theme: 'btn-back-pink',
         name: 'My Figma Projects',
-        description: 'Explore my public design library on Figma Community, featuring UI/UX prototypes, web layouts, and interactive design resources.',
+        description: 'Explore my public design library on Figma Community, featuring UI/UX prototypes and web layouts',
         link: 'https://www.figma.com/@calistha_surya', 
     },
 
@@ -133,7 +133,7 @@ export const projects = [
         iconUrl: blender,
         theme: 'btn-back-red',
         name: 'My 3D Projects',
-        description: 'A collection of 3D assets and environments created using Blender. Focused on lighting, texturing, and creating optimized models for web and digital art.',
+        description: 'A collection of 3D assets and environments created using Blender.',
         link: 'https://www.artstation.com/calistha_tan', 
     }
 ];

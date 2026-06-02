@@ -22,9 +22,9 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          I'm a developer who enjoys the logic of coding websites and the creativity
-          of 3D modeling. Currently honing my skills in software engineering to build
-          the next generation of digital tools.
+          I'm a web developer and 3D designer. I love building clean websites and creating 
+          interactive 3D models. I’m always excited to learn new 3D styles and bring creative 
+          ideas to life through code.
         </p>
       </div>
 
